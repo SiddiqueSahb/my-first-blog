@@ -1,0 +1,5 @@
+Creating an application
+To keep everything tidy, we will create a separate application inside our project. It is very nice to have everything organized from the very beginning. To create an application we need to run the following command in the console (from djangogirls directory where manage.py file is):
+
+command-line
+(myvenv) ~/djangogirls$ python manage.py startapp blog
